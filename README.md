@@ -1,4 +1,4 @@
-# password-generator
+# Password-Generator
 This repository houses a robust and customizable password generator implemented in Python. It enables users to create secure and unique passwords tailored to specific requirements, such as length, character sets (letters, numbers, symbols), and any additional criteria for password strength. The generator ensures high randomness using Python's secrets module, suitable for various applications requiring strong authentication credentials.
 
 Features:
